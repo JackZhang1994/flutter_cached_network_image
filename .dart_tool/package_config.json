@@ -75,7 +75,7 @@
     },
     {
       "name": "flutter_cache_manager",
-      "rootUri": "file:///Users/zhangjianfu/.pub-cache/git/flutter_cache_manager-9d9549269d729845a6ed72d0206669b8d890c429/",
+      "rootUri": "file:///Users/zhangjianfu/.pub-cache/git/flutter_cache_manager-007f2e4d7306e214bd27161ad88e87a9c1049bd7/",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
@@ -380,7 +380,7 @@
       "languageVersion": "2.0"
     }
   ],
-  "generated": "2019-12-20T03:06:54.030794Z",
+  "generated": "2020-04-22T11:22:42.290188Z",
   "generator": "pub",
   "generatorVersion": "2.7.0"
 }
